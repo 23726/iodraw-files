@@ -92,8 +92,8 @@
         <mxCell id="khjyYsPr-uWVljk7faf4-9" value="输出：良性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="690" y="650" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="khjyYsPr-uWVljk7faf4-27" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="570" width="60" height="30" as="geometry" />
+        <mxCell id="khjyYsPr-uWVljk7faf4-27" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="630" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
