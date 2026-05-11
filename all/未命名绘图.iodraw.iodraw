@@ -22,7 +22,7 @@
         <mxCell id="khjyYsPr-uWVljk7faf4-69" value="&lt;b&gt;CE损失+AdamW+余弦退火+梯度裁剪1.0&lt;/b&gt;&lt;div&gt;验证准确率选最优➡model.pt等&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000099;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="250" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="khjyYsPr-uWVljk7faf4-70" value="输入域名字符串" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="khjyYsPr-uWVljk7faf4-70" value="输入域名字符串" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#006633;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-780" y="390" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="khjyYsPr-uWVljk7faf4-71" value="同构tokenizer编码&lt;div&gt;token_ids、lengths+pad mask&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
