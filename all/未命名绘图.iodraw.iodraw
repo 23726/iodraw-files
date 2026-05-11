@@ -25,7 +25,7 @@
         <mxCell id="khjyYsPr-uWVljk7faf4-35" value="相似度 s= E e_s&lt;div&gt;内积等价余弦(单位向量)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-210" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="khjyYsPr-uWVljk7faf4-36" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="khjyYsPr-uWVljk7faf4-36" value="TopK/最小相似度&lt;div&gt;去重、跳过自匹配&lt;/div&gt;&lt;div&gt;近邻列表JSON&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-30" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="khjyYsPr-uWVljk7faf4-37" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
