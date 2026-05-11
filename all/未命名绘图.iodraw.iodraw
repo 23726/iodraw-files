@@ -31,7 +31,7 @@
         <mxCell id="khjyYsPr-uWVljk7faf4-37" value="知识库数据源&lt;div&gt;CSV:domain、label&lt;/div&gt;&lt;div&gt;与训练数据列一致&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-750" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="khjyYsPr-uWVljk7faf4-38" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="khjyYsPr-uWVljk7faf4-38" value="启动时批量编码&lt;div&gt;与检测相同前向&lt;/div&gt;&lt;div&gt;嵌入矩阵E常驻内存&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-570" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="khjyYsPr-uWVljk7faf4-39" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
