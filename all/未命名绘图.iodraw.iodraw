@@ -89,7 +89,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="khjyYsPr-uWVljk7faf4-63" value="供给矩阵e" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-350" y="460" width="60" height="30" as="geometry" />
+          <mxGeometry x="-350" y="500" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
