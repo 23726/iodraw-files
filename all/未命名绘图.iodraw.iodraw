@@ -51,6 +51,9 @@
         <mxCell id="khjyYsPr-uWVljk7faf4-2" value="待检测域名输入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="10" y="520" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="khjyYsPr-uWVljk7faf4-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="khjyYsPr-uWVljk7faf4-3" target="khjyYsPr-uWVljk7faf4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="khjyYsPr-uWVljk7faf4-3" value="黑名单查询&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;精确匹配/哈希表/Bloom过滤&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="520" width="120" height="60" as="geometry" />
         </mxCell>
@@ -73,6 +76,12 @@
           <mxGeometry x="690" y="650" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="khjyYsPr-uWVljk7faf4-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="540" as="sourcePoint" />
+            <mxPoint x="450" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="khjyYsPr-uWVljk7faf4-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="540" as="sourcePoint" />
             <mxPoint x="450" y="490" as="targetPoint" />
