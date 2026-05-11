@@ -49,7 +49,7 @@
           <mxGeometry x="70" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="khjyYsPr-uWVljk7faf4-3" value="黑名单查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="294" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
