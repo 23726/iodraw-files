@@ -61,12 +61,6 @@
         <mxCell id="khjyYsPr-uWVljk7faf4-40" value="Web服务层(FastAPI+前端fetch)&lt;div&gt;检测、关联、图等JSON接口&lt;/div&gt;&lt;div&gt;鉴权与演示接口与核心数据流并列，不改变上述结构&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-320" y="640" width="550" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="khjyYsPr-uWVljk7faf4-45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-380" y="480" as="sourcePoint" />
-            <mxPoint x="-330" y="430" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="khjyYsPr-uWVljk7faf4-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.54;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="khjyYsPr-uWVljk7faf4-32" target="khjyYsPr-uWVljk7faf4-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -82,7 +76,7 @@
             <mxPoint x="-335" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="khjyYsPr-uWVljk7faf4-61" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="khjyYsPr-uWVljk7faf4-61" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="khjyYsPr-uWVljk7faf4-40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-330" y="480" as="sourcePoint" />
             <mxPoint x="-280" y="430" as="targetPoint" />
