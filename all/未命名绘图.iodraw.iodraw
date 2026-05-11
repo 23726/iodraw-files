@@ -19,6 +19,9 @@
         <mxCell id="khjyYsPr-uWVljk7faf4-68" value="&lt;b&gt;字符级Transformer&lt;/b&gt;&lt;div&gt;编码器➡[CLS]➡logits(2)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000099;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-140" y="250" width="190" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="khjyYsPr-uWVljk7faf4-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="khjyYsPr-uWVljk7faf4-69" target="khjyYsPr-uWVljk7faf4-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="khjyYsPr-uWVljk7faf4-69" value="&lt;b&gt;CE损失+AdamW+余弦退火+梯度裁剪1.0&lt;/b&gt;&lt;div&gt;验证准确率选最优➡model.pt等&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000099;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="250" width="230" height="60" as="geometry" />
         </mxCell>
@@ -39,6 +42,12 @@
         </mxCell>
         <mxCell id="khjyYsPr-uWVljk7faf4-75" value="&lt;b&gt;&lt;font color=&quot;#00994d&quot;&gt;在线推理(engine.predict)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-772.5" y="360" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="khjyYsPr-uWVljk7faf4-76" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-270" y="460" as="sourcePoint" />
+            <mxPoint x="-220" y="410" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
