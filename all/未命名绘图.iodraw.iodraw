@@ -20,10 +20,10 @@
           <mxGeometry x="-630" y="350" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="khjyYsPr-uWVljk7faf4-34" value="嵌入向量e&lt;div&gt;服务端对种子域名前向L2归一化，与检测同源&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-420" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="-180" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="khjyYsPr-uWVljk7faf4-35" value="相似度 s= E e_s&lt;div&gt;内积等价余弦(单位向量)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-210" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="khjyYsPr-uWVljk7faf4-36" value="TopK/最小相似度&lt;div&gt;去重、跳过自匹配&lt;/div&gt;&lt;div&gt;近邻列表JSON&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="360" width="120" height="60" as="geometry" />
