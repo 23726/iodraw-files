@@ -51,8 +51,8 @@
         <mxCell id="khjyYsPr-uWVljk7faf4-3" value="黑名单查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="khjyYsPr-uWVljk7faf4-4" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="460" width="80" height="80" as="geometry" />
+        <mxCell id="khjyYsPr-uWVljk7faf4-4" value="命中黑名单？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="510" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
