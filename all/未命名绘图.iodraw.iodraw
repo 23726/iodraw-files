@@ -38,7 +38,7 @@
           <mxGeometry x="-785" y="220" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="khjyYsPr-uWVljk7faf4-75" value="在线推理(engine.predict)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-380" y="530" width="60" height="30" as="geometry" />
+          <mxGeometry x="-760" y="360" width="145" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
