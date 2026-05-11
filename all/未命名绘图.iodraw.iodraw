@@ -23,7 +23,7 @@
           <mxGeometry x="80" y="250" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="khjyYsPr-uWVljk7faf4-70" value="输入域名字符串" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#006633;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-780" y="390" width="160" height="60" as="geometry" />
+          <mxGeometry x="-780" y="390" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="khjyYsPr-uWVljk7faf4-71" value="同构tokenizer编码&lt;div&gt;token_ids、lengths+pad mask&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#006600;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-560" y="390" width="240" height="60" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="-270" y="390" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="khjyYsPr-uWVljk7faf4-73" value="恶意概率vs阈值(默认0.5)&lt;div&gt;➡预测标签：benign/malicious&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C2D4C1;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="390" width="250" height="60" as="geometry" />
+          <mxGeometry x="70" y="390" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="khjyYsPr-uWVljk7faf4-74" value="&lt;b&gt;&lt;font color=&quot;#0000cc&quot;&gt;离线训练(CSV+train.py)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-785" y="220" width="170" height="30" as="geometry" />
