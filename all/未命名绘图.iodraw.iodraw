@@ -31,7 +31,7 @@
         <mxCell id="khjyYsPr-uWVljk7faf4-72" value="eval前向：softmax(logits)&lt;div&gt;P(benign)、P(malicious)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#006633;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-320" y="390" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="khjyYsPr-uWVljk7faf4-73" value="恶意概率vs阈值(默认0.5)&lt;div&gt;➡预测标签：benign/malicious&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FF33;strokeColor=#006633;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="khjyYsPr-uWVljk7faf4-73" value="恶意概率vs阈值(默认0.5)&lt;div&gt;➡预测标签：benign/malicious&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="390" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="khjyYsPr-uWVljk7faf4-74" value="&lt;b&gt;&lt;font color=&quot;#0000cc&quot;&gt;离线训练(CSV+train.py)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
