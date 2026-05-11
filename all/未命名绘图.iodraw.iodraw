@@ -11,7 +11,7 @@
           <mxGeometry x="-780" y="250" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="khjyYsPr-uWVljk7faf4-66" value="加载、规范化与划分&lt;div&gt;训练/验证集|可选分层采样&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-600" y="250" width="150" height="60" as="geometry" />
+          <mxGeometry x="-590" y="250" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="khjyYsPr-uWVljk7faf4-67" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-410" y="250" width="120" height="60" as="geometry" />
