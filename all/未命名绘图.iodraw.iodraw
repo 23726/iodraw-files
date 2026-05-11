@@ -23,7 +23,7 @@
           <mxGeometry x="80" y="250" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="khjyYsPr-uWVljk7faf4-70" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-720" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="-780" y="390" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="khjyYsPr-uWVljk7faf4-71" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-500" y="390" width="120" height="60" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="-785" y="220" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="khjyYsPr-uWVljk7faf4-75" value="在线推理(engine.predict)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-760" y="360" width="145" height="30" as="geometry" />
+          <mxGeometry x="-772.5" y="360" width="145" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
