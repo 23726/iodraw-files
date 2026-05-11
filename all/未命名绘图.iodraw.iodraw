@@ -17,7 +17,7 @@
           <mxGeometry x="-350" y="165" width="290" height="130" as="geometry" />
         </mxCell>
         <mxCell id="khjyYsPr-uWVljk7faf4-33" value="恶意域名检测&lt;div&gt;softmax概率、预测标签&lt;/div&gt;&lt;div&gt;embedding_dim(JSON响应)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-720" y="340" width="140" height="80" as="geometry" />
+          <mxGeometry x="-350" y="350" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="khjyYsPr-uWVljk7faf4-34" value="嵌入向量e&lt;div&gt;服务端对种子域名前向L2归一化，与检测同源&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-180" y="360" width="120" height="60" as="geometry" />
@@ -29,13 +29,13 @@
           <mxGeometry x="190" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="khjyYsPr-uWVljk7faf4-37" value="知识库数据源&lt;div&gt;CSV:domain、label&lt;/div&gt;&lt;div&gt;与训练数据列一致&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-750" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="-730" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="khjyYsPr-uWVljk7faf4-38" value="启动时批量编码&lt;div&gt;与检测相同前向&lt;/div&gt;&lt;div&gt;嵌入矩阵E常驻内存&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-570" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="khjyYsPr-uWVljk7faf4-39" value="恶意子集相似图&lt;div&gt;边阈值、最大节点数&lt;/div&gt;&lt;div&gt;节点与边供前端可视化&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-420" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="-540" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="khjyYsPr-uWVljk7faf4-40" value="Web服务层(FastAPI+前端fetch)&lt;div&gt;检测、关联、图等JSON接口&lt;/div&gt;&lt;div&gt;鉴权与演示接口与核心数据流并列，不改变上述结构&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-320" y="650" width="550" height="100" as="geometry" />
