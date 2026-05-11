@@ -7,7 +7,7 @@
         <mxCell id="khjyYsPr-uWVljk7faf4-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-790" y="140" width="1120" height="630" as="geometry" />
         </mxCell>
-        <mxCell id="khjyYsPr-uWVljk7faf4-65" value="&lt;div&gt;标注数据集(CSV)&lt;div&gt;domain/label列 0/1或文本标签&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#0000CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="khjyYsPr-uWVljk7faf4-65" value="&lt;div&gt;&lt;b&gt;标注数据集(CSV)&lt;/b&gt;&lt;div&gt;domain/label列 0/1或文本标签&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#0000CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-780" y="250" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="khjyYsPr-uWVljk7faf4-66" value="加载、规范化与划分&lt;div&gt;训练/验证集|可选分层采样&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#0000CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
