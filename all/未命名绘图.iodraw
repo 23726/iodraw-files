@@ -66,16 +66,16 @@
         <mxCell id="AzjZ9jKvaQNDUDN5GOR4-10" value="&lt;b&gt;单条域名检测&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-220" y="494" width="50" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="AzjZ9jKvaQNDUDN5GOR4-11" value="概率与标签输出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="AzjZ9jKvaQNDUDN5GOR4-11" value="&lt;b&gt;概率与标签输出&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-130" y="494" width="50" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="AzjZ9jKvaQNDUDN5GOR4-12" value="TopK&lt;div&gt;相似检索&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="AzjZ9jKvaQNDUDN5GOR4-12" value="&lt;b&gt;TopK&lt;/b&gt;&lt;div&gt;&lt;b&gt;相似检索&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="10" y="494" width="50" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="AzjZ9jKvaQNDUDN5GOR4-13" value="恶意子集相似图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="AzjZ9jKvaQNDUDN5GOR4-13" value="&lt;b&gt;恶意子集相似图&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="494" width="50" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="AzjZ9jKvaQNDUDN5GOR4-14" value="嵌入与知识库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="AzjZ9jKvaQNDUDN5GOR4-14" value="&lt;b&gt;嵌入与知识库&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="494" width="50" height="180" as="geometry" />
         </mxCell>
         <mxCell id="AzjZ9jKvaQNDUDN5GOR4-15" value="样本分页与筛选" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
