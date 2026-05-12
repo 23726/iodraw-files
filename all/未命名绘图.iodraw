@@ -37,7 +37,7 @@
             <mxPoint x="-450" y="294" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AzjZ9jKvaQNDUDN5GOR4-83" value="&lt;b&gt;HTTP页面/操作&lt;/b&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="AzjZ9jKvaQNDUDN5GOR4-82">
+        <mxCell id="AzjZ9jKvaQNDUDN5GOR4-83" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;HTTP页面/操作&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="AzjZ9jKvaQNDUDN5GOR4-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AzjZ9jKvaQNDUDN5GOR4-84" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -46,7 +46,7 @@
             <mxPoint x="-140" y="295" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AzjZ9jKvaQNDUDN5GOR4-85" value="&lt;b&gt;REST - JSON&lt;/b&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="AzjZ9jKvaQNDUDN5GOR4-84">
+        <mxCell id="AzjZ9jKvaQNDUDN5GOR4-85" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;REST - JSON&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="AzjZ9jKvaQNDUDN5GOR4-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AzjZ9jKvaQNDUDN5GOR4-86" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
