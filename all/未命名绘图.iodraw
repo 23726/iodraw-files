@@ -28,7 +28,7 @@
         <mxCell id="AzjZ9jKvaQNDUDN5GOR4-7" value="会话与令牌校验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-540" y="494" width="50" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="AzjZ9jKvaQNDUDN5GOR4-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="AzjZ9jKvaQNDUDN5GOR4-8" value="管理员用户维护" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-450" y="494" width="50" height="180" as="geometry" />
         </mxCell>
         <mxCell id="AzjZ9jKvaQNDUDN5GOR4-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
