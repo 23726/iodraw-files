@@ -63,6 +63,15 @@
         <mxCell id="AzjZ9jKvaQNDUDN5GOR4-55" value="页面渲染" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-510" y="260" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="AzjZ9jKvaQNDUDN5GOR4-56" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-80" y="510" as="sourcePoint" />
+            <mxPoint x="20" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AzjZ9jKvaQNDUDN5GOR4-57" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="AzjZ9jKvaQNDUDN5GOR4-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
