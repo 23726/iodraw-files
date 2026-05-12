@@ -68,6 +68,15 @@
         <mxCell id="AzjZ9jKvaQNDUDN5GOR4-63" value="&lt;b&gt;usersapi - sqlite3&lt;/b&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="AzjZ9jKvaQNDUDN5GOR4-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="AzjZ9jKvaQNDUDN5GOR4-66" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="410" as="sourcePoint" />
+            <mxPoint x="190" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AzjZ9jKvaQNDUDN5GOR4-67" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="AzjZ9jKvaQNDUDN5GOR4-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
