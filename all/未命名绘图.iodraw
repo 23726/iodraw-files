@@ -75,9 +75,9 @@
         <mxCell id="AzjZ9jKvaQNDUDN5GOR4-17" value="静态资源与运维" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="494" width="50" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="AzjZ9jKvaQNDUDN5GOR4-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.098;exitY=0.976;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AzjZ9jKvaQNDUDN5GOR4-1" target="AzjZ9jKvaQNDUDN5GOR4-6">
+        <mxCell id="AzjZ9jKvaQNDUDN5GOR4-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="AzjZ9jKvaQNDUDN5GOR4-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-610" y="460" as="sourcePoint" />
+            <mxPoint x="-605" y="399" as="sourcePoint" />
             <mxPoint x="-560" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
