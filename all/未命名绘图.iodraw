@@ -55,7 +55,7 @@
             <mxPoint x="160" y="295" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AzjZ9jKvaQNDUDN5GOR4-87" value="&lt;b&gt;依赖注入&lt;/b&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="AzjZ9jKvaQNDUDN5GOR4-86">
+        <mxCell id="AzjZ9jKvaQNDUDN5GOR4-87" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;依赖注入&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="AzjZ9jKvaQNDUDN5GOR4-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AzjZ9jKvaQNDUDN5GOR4-88" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AzjZ9jKvaQNDUDN5GOR4-78" target="AzjZ9jKvaQNDUDN5GOR4-77">
