@@ -34,7 +34,7 @@
         <mxCell id="AzjZ9jKvaQNDUDN5GOR4-9" value="模型与分词器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-310" y="494" width="50" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="AzjZ9jKvaQNDUDN5GOR4-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="AzjZ9jKvaQNDUDN5GOR4-10" value="单条域名检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-220" y="494" width="50" height="180" as="geometry" />
         </mxCell>
         <mxCell id="AzjZ9jKvaQNDUDN5GOR4-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
