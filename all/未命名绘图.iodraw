@@ -5,10 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="khjyYsPr-uWVljk7faf4-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-670" y="120" width="1530" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="khjyYsPr-uWVljk7faf4-72" value="&lt;b&gt;返回related[]&lt;/b&gt;&lt;div&gt;&lt;b&gt;domain,similarity,label&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A1A1A1;strokeColor=#666666;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="657" y="250" width="170" height="60" as="geometry" />
+          <mxGeometry x="-810" y="120" width="1530" height="750" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
