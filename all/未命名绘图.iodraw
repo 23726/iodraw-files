@@ -25,7 +25,7 @@
         <mxCell id="AzjZ9jKvaQNDUDN5GOR4-78" value="推理与检索&lt;div&gt;概率 - 嵌入 - TopK&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-440" y="450" width="210" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="AzjZ9jKvaQNDUDN5GOR4-79" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="AzjZ9jKvaQNDUDN5GOR4-79" value="模型与CSV&lt;div&gt;权重 - 知识库&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-140" y="450" width="210" height="110" as="geometry" />
         </mxCell>
         <mxCell id="AzjZ9jKvaQNDUDN5GOR4-80" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
