@@ -7,29 +7,6 @@
         <mxCell id="khjyYsPr-uWVljk7faf4-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-670" y="120" width="1530" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="khjyYsPr-uWVljk7faf4-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="khjyYsPr-uWVljk7faf4-69" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="40" y="280" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="khjyYsPr-uWVljk7faf4-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="khjyYsPr-uWVljk7faf4-69" target="khjyYsPr-uWVljk7faf4-70" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="khjyYsPr-uWVljk7faf4-69" value="种子嵌入 e_s&lt;div&gt;embeddings([seed])&lt;/div&gt;&lt;div&gt;L2向量单位&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="80" y="250" width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="khjyYsPr-uWVljk7faf4-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="khjyYsPr-uWVljk7faf4-70" target="khjyYsPr-uWVljk7faf4-71" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="khjyYsPr-uWVljk7faf4-70" value="相似度向量 s&lt;div&gt;s = E @ e_s&lt;/div&gt;&lt;div&gt;(np.dot)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="284" y="250" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="khjyYsPr-uWVljk7faf4-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="khjyYsPr-uWVljk7faf4-71" target="khjyYsPr-uWVljk7faf4-72" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="khjyYsPr-uWVljk7faf4-71" value="argsot (-s) ≥ min_sim|去重|TopK" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="440" y="250" width="190" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="khjyYsPr-uWVljk7faf4-72" value="&lt;b&gt;返回related[]&lt;/b&gt;&lt;div&gt;&lt;b&gt;domain,similarity,label&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A1A1A1;strokeColor=#666666;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="657" y="250" width="170" height="60" as="geometry" />
         </mxCell>
