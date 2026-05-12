@@ -22,7 +22,7 @@
         <mxCell id="AzjZ9jKvaQNDUDN5GOR4-77" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;结果渲染&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;DOM/图/饼图&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-770" y="450" width="210" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="AzjZ9jKvaQNDUDN5GOR4-78" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;推理与检索&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;概率 - 嵌入 - TopK&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B266FF;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="AzjZ9jKvaQNDUDN5GOR4-78" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;推理与检索&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;概率 - 嵌入 - TopK&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BAB0BF;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-450" y="450" width="210" height="110" as="geometry" />
         </mxCell>
         <mxCell id="AzjZ9jKvaQNDUDN5GOR4-79" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;模型与CSV&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;权重 - 知识库&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
