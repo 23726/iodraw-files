@@ -14,7 +14,7 @@
           <mxGeometry x="-600" y="280" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="AzjZ9jKvaQNDUDN5GOR4-76" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;SQLite&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;令牌与用户校验&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-105" y="280" width="140" height="70" as="geometry" />
+          <mxGeometry x="-260" y="280" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="AzjZ9jKvaQNDUDN5GOR4-78" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;推理与检索&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;概率 - 嵌入 - TopK&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BAB0BF;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-450" y="450" width="210" height="110" as="geometry" />
@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AzjZ9jKvaQNDUDN5GOR4-75" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;FastAPI&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;路由与依赖注入&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-300" y="280" width="120" height="70" as="geometry" />
+          <mxGeometry x="-413" y="280" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
